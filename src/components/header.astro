@@ -1,18 +1,18 @@
 ---
-import { Icon } from "astro-icon";
-import ThemeSwitcher from "~/components/theme-switcher.astro";
-import type { NavItem } from "~/types";
+import { Icon } from "astro-icon"
+import ThemeSwitcher from "~/components/theme-switcher.astro"
+import type { NavItem } from "~/types"
 
 const navItems: Array<NavItem> = [
   { title: "Lien 1", url: "#" },
   { title: "Lien 2", url: "#" },
   { title: "Lien 3", url: "#" },
-];
+]
 ---
 
 <header
   id="page-header"
-  class="absolute bottom-0 z-20 flex w-full items-center justify-between border-b border-transparent px-8 py-4 text-default bg-default"
+  class="absolute bottom-0 z-20 flex w-full items-center justify-between border-b border-transparent px-8 py-4 text-default bg-default bg-opacity-default"
 >
   <a class="flex items-center gap-3" href="#">
     <h1 class="sr-only">Astro</h1>
@@ -130,7 +130,7 @@ const navItems: Array<NavItem> = [
 <style>
   .fixed-header {
     @apply fixed bottom-auto top-0;
-    @apply border-default bg-default text-default;
+    @apply border-default bg-default text-default bg-opacity-default;
   }
   .modal.is-open {
     @apply block;

@@ -3,7 +3,15 @@
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
 
-> An Astro + Tailwind CSS example/template for landing pages.
+> An Astro + Tailwind CSS example/template + Preact component for Matrixed background for your landing pages.
+> Config as u wish:
+ * MINIMAL_SPEED
+ * MAX_ADD_SPEED
+ * MATRIX_CANVAS_TRAIL_INDICE
+ * REDROP_AFTER_INVISIBLE_RATIO 
+ * FONT
+ * FONT_SIZE
+ * FONT_COLOR
 
 ![Screenshots of Astro Landing Page](screenshot.png)
 
