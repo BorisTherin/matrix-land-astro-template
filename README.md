@@ -27,6 +27,7 @@
 - 🔎 SEO-enabled (as measured by https://web.dev/measure/)
 - 🔗 Open Graph tags for social media sharing
 - 💅 [Prettier](https://prettier.io/) setup for both [Astro](https://github.com/withastro/prettier-plugin-astro) and [Tailwind](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+ - Preact component island to render your landing pages background
 
 ## Commands
 
