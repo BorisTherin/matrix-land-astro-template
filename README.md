@@ -1,10 +1,11 @@
-# Astro Landing Page
+# Astro Landing Page with Matrix canvas as background 
+(pretty efficient template base from https://github.com/mhyfritz/astro-landing-page)
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
 
 > An Astro + Tailwind CSS example/template for landing pages.
 
-![Screenshots of Astro Landing Page](screenshots.jpg)
+![Screenshots of Astro Landing Page](screenshots.png)
 
 ## Features
 
@@ -33,8 +34,5 @@
 
 ## Credits
 
-- astronaut image
-  - source: https://github.com/withastro/astro-og-image; note: this repo is not available anymore
-- moon image
-  - source: https://unsplash.com/@nasa
+- based on https://github.com/mhyfritz/astro-landing-page
 - other than that, a lot of material (showcase data, copy) was taken from official Astro sources, in particular https://astro.build/blog/introducing-astro/ and https://github.com/withastro/astro.build
