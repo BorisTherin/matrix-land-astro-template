@@ -5,7 +5,7 @@
 
 > An Astro + Tailwind CSS example/template for landing pages.
 
-![Screenshots of Astro Landing Page](screenshots.png)
+![Screenshots of Astro Landing Page](screenshot.png)
 
 ## Features
 
